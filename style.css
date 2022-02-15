@@ -111,12 +111,12 @@ button {
   background: #f44336;
   transition: 1s;
 }
-#survey-form {
+#survey {
   width: 80%;
   margin: auto;
 }
 
-#survey-form {
+#survey {
   flex-basis: 48%;
   margin-bottom: 30px;
 }
